@@ -1,4 +1,3 @@
-## PHYS40001: Computing Project
 
 # Measuring Hubble’s Constant
 
