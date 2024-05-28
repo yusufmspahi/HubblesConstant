@@ -47,15 +47,3 @@ Fig. 2: A plot of spectral intensity vs. frequency. The blue line shows the obse
 - The instrument response for each observation is either good (value of 1) or bad (value of 0). Observations with bad instrument response should not be used in the calculation of $H_0$.
 - Matching the observation number in the spectral data file with the observation number in the distance data file is necessary since the order of observation numbers is different in both files.
 
-### Commenting your Code & Plagiarism
-
-- The project must be your own work, and a full plagiarism check will be carried out on all submissions.
-- It is acceptable to use pieces of code from online sources, colleagues, etc., but you must clearly state the source of the piece of code using a comment (`#`).
-- Effectively comment your code so that another programmer can easily understand what the code does.
-
-### Project Submission
-
-- Submit your code (.py file), a plot of redshift velocity vs. distance, and the fitted value of Hubble’s constant and its uncertainty.
-- Deadline: 2pm on Friday, 24th November.
-- Full details on how to submit will be given out shortly.
-
